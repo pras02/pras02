@@ -1,6 +1,4 @@
-<p align = "center" >
-<h1 align = "center"> Hi there! I am Prashanth </h1>
-</p>
+<h1 align = "left"> Hi there! I am Prashanth </h1>
 
 **`Healthcare IT Engineer`**
  
