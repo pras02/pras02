@@ -1,12 +1,12 @@
 <p align = "center" >
-<h1 align = "center"> Hi there! I am Prashanth Prakasha </h1>
+<h1 align = "center"> Hi there! I am Prashanth </h1>
 </p>
 
-<h3 align = "center">Healthcare IT Professional, Interoperability Solutions and a technology fanatic!</h3>
+**`Healthcare IT Engineer`**
+ 
+I am an Healthcare IT professional. Passionate about technology, currently working on **Healthcare Interoperability Solutions**, and Learning Full Stack Development. I have been working on designing, developing, testing, and implementing varied Interoperability Solutions to multiple enterprise organizations. Proficient in developing interoperable healthcare solutions utilizing integration engines such as but not limited to **Lyniate Rhapsody**, **Mirth Connect** using industry standards such as **HL7, FHIR, XML, etc. alongside Healthcare IT enabling frameworks like IHE**. Currently I am working as a **Field Integration Specialist** at Philips Healthcare where I am working on implementaiton of XDS solutions across enterprise healthcare organizations☁️. I have participated in **Connectathons**, and also accqired certifications related to **Healthcare standards** and tools such as HL7v2.8, Lyniate Rhapsody, FHIR etc. Drop in for a quick chat, I am open for collaboration.
 
-## WHAT I DO? :man:
-I am an Healthcare IT professional. Passionate about technology, currently working on **Healthcare Interoperability Solutions**, and Learning Full Stack Development. I have been working on designing, developing, testing, and implementing varied **Interoperability Solutions** to multiple enterprise organizations. Proficient in developing interoperable healthcare solutions utilizing integration engines such as but not limited to **Lyniate Rhapsody**, **Mirth Connect** using industry standards such as **HL7, FHIR, XML, etc. alongside Healthcare IT enabling frameworks like IHE**. Currently I am working as a **Field Integration Specialist** at Philips Healthcare where I am working on implementaiton of XDS solutions across enterprise healthcare organizations☁️. I have participated in **Connectathons**, and also accqired certifications related to **Healthcare standards** and tools such as HL7v2.8, Lyniate Rhapsody, FHIR etc. Drop in for a quick chat, I am open for collaboration ✨
-
+---
 <p>
 🔭 I'm currently exploring **Full Stack Development** <br>
 🌱 I'm looking to collaborate on **open source projects** <br>
@@ -14,14 +14,16 @@ I am an Healthcare IT professional. Passionate about technology, currently worki
 💬 Ask me about **Healthcare Interoperability**
 </p>
 
-## SOCIAL LIFE :point_down: :wave:
+<!-- ## Connect :point_down: :wave:
 <p align="left">
 <a href="https://linkedin.com/in/prashanthprakasha" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/prashanth.prakasha" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/pras02" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-</p>
+</p> -->
 
-## TECHNOLOGY LIFE :man_technologist:
+#
+
+### Languages and Tools
 <p align="left"> 
 <!-- Web Development -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </a>
