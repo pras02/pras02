@@ -1,8 +1,17 @@
-<h1 align = "left"> Hi there! I am Prashanth </h1>
+<h2> Hi, I'm Prashanth!</h2>
 
-**`Healthcare IT Engineer`**
+
+<p>
+<em>
+Field Integration Specialist at <a href="https://www.foundahealth.com/">Founda Health</a><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="30">
+ 
+[![Linkedin: prashanthprakasha](https://img.shields.io/badge/-prashanthprakasha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashanthprakasha/)](https://www.linkedin.com/in/prashanthprakasha/)
+</em>
+</p>
  
 I am an Healthcare IT professional. Passionate about technology, currently working on **Healthcare Interoperability Solutions**, and Learning Full Stack Development. I have been working on designing, developing, testing, and implementing varied Interoperability Solutions to multiple enterprise organizations. Proficient in developing interoperable healthcare solutions utilizing integration engines such as but not limited to **Lyniate Rhapsody**, **Mirth Connect** using industry standards such as **HL7, FHIR, XML, etc. alongside Healthcare IT enabling frameworks like IHE**. Currently I am working as a **Field Integration Specialist** at Philips Healthcare where I am working on implementaiton of XDS solutions across enterprise healthcare organizations☁️. I have participated in **Connectathons**, and also accqired certifications related to **Healthcare standards** and tools such as HL7v2.8, Lyniate Rhapsody, FHIR etc. Drop in for a quick chat, I am open for collaboration.
+
+
 
 #
 
